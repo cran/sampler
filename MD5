@@ -1,6 +1,6 @@
-a08390cc0e54dc49465647c9b9a39caf *DESCRIPTION
+aab2625cb493df2e225bce072d2b2b53 *DESCRIPTION
 f013757fada2542b6196279ae8ca4987 *LICENSE
-c967c9c48ba8ac71be21078bca665ff3 *NAMESPACE
+fc07742a881e645920ee95b87c2c0b5a *NAMESPACE
 ec64f724706be9bc0494c9ed98c17000 *R/cpro.R
 4fcdd4b3bcd64df66c07463e93efc029 *R/data.R
 cf93e2a0b9f08795be3211342d6c1f95 *R/dedupe.R
@@ -10,12 +10,12 @@ bd2287b861f06654cb03108fe1022542 *R/dupe.R
 652c74d5dbd9b6d8fee47f8a77a3b5a4 *R/rpro.R
 fe1630b0b27bebbdf4e34134f32653be *R/rsamp.R
 51311092f56346aa49350aafe61b011d *R/rsampcalc.R
-2fbcb41280f15920cbb57218757ee644 *R/sampler.R
+0a1c979c7c032fb655c89cc98ceb9f43 *R/sampler.R
 9c3e66b3f0022308ded0d03673cb3828 *R/smissing.R
 aa15ea913e6e56fae11bb6570268e257 *R/spro.R
-de70a56ec27269ae3f509f79b8ffedfc *R/ssamp.R
+b2ab5d1e5c79d53544943733b1911bbd *R/ssamp.R
 4e92cf71bb74ceb09c74254baa7ad67d *R/ssampcalc.R
-1d9e8ac6970ac3afceefffdf4c4a4f6c *README.md
+eb630eb2d178f6a46d78ab866c67846b *README.md
 2054e4cd9015d1e0bf45929424a287ea *data/albania.rda
 b6fcdf744292a8454ddd32802547467d *data/opening.rda
 60048de9a70aef30175ada1a1a16bb4d *man/albania.Rd
@@ -30,5 +30,5 @@ c9b6c3bb9ee74629c772f1e7d0f5bd13 *man/rpro.Rd
 4be18f486ad3f691435f93448269ed22 *man/rsampcalc.Rd
 ac1eaa2262b6468ba6a1fa173f2eb27f *man/smissing.Rd
 8b6741ba29f929f22ad47630b23224f8 *man/spro.Rd
-9640d4b1910c0e2703fe2ca92a0e027d *man/ssamp.Rd
+610ae09e8081ee1bde7772ddbe9e34bc *man/ssamp.Rd
 22c3fd3d62a2bbbc24c1699a1494018e *man/ssampcalc.Rd
